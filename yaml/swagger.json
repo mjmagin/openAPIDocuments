@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: "0.1"
-  title: 'DRIVER APP Staging'
+  title: 'DRIVER APP Staging '
   description: 'DRIVER APP Staging'
 
 host: api.kumulos.com 
